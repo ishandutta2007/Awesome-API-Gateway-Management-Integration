@@ -63,9 +63,9 @@ The table below covers key SaaS and managed API gateway platforms, sorted in des
 
 ## 🔓 Open-Source Gateways & Proxies ⭐
 
-Self-hosted, transparent, and community-driven API gateways and reverse proxies. The repositories below are sorted in **descending order of GitHub Star counts**, featuring clickable badges linking directly to their stargazers page.
+Self-hosted, transparent, and community-driven API gateways and reverse proxies. The repositories below are sorted in **descending order of GitHub Stars_Counts**, featuring clickable badges linking directly to their stargazers page.
 
-| Repository | GitHub Stars Badge | License | Language | Description |
+| Repository | GitHub_Stars_Badge | License | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[traefik/traefik](https://github.com/traefik/traefik)** 🚦 | [![Stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers) | `MIT` | Go | Modern, dynamic HTTP reverse proxy and ingress controller built for microservices and container deployments. |
 | **[Kong/kong](https://github.com/Kong/kong)** 🦍 | [![Stars](https://img.shields.io/github/stars/Kong/kong?style=social&color=white)](https://github.com/Kong/kong/stargazers) | `Apache-2.0` | Lua / OpenResty | The world's most popular cloud-native API gateway, delivering sub-millisecond processing latency and extensive plugin architecture. |
